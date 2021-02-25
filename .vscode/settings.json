@@ -26,6 +26,7 @@
   "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
+  "kite.codefinder.enableLineDecoration": false,
   "ponicode.testSettings.testLocation.locationType": "Same folder as source file",
   "ponicode.testSettings.testLocation.path": "{rootDir}/{filePath}/{fileName}.test.{ext}",
   "prettier.requireConfig": true,
