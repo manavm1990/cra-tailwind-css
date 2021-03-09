@@ -25,6 +25,9 @@
       "prettier",
       "plugin:react/recommended"
     ],
+    "globals": {
+        "_": "readonly"
+    },
     "rules": {
       "react/react-in-jsx-scope": 0
     }
